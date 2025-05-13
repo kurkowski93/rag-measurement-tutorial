@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-core
+langchain-community
+openai
+python-dotenv
+ipykernel
+jupyter
+
+langgraph
+pypdf
+pandas
+matplotlib
+seaborn
+ragas

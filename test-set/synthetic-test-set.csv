@@ -1,0 +1,43 @@
+query,ground_truth
+When was OpenAI founded?,"December 8, 2015"
+Who are the founders of OpenAI?,"John Schulman, Elon Musk, Ilya Sutskever, Sam Altman"
+What is OpenAI's mission?,To ensure that AGI benefits all of humanity.
+What are some key products developed by OpenAI?,"ChatGPT, GPT models, DALL·E, Codex, Sora"
+Where is OpenAI headquartered?,"San Francisco, California"
+Who is OpenAI's current CEO?,Sam Altman
+Which major company invested $13 billion in OpenAI?,Microsoft
+What is the estimated revenue of OpenAI in 2024?,$3.7 billion
+Why did Elon Musk leave OpenAI?,Due to a potential future conflict of interest with Tesla's AI work.
+What is the name of OpenAI’s AI chatbot released in November 2022?,ChatGPT
+When was Anthropic founded?,2021
+Who founded Anthropic?,"Dario Amodei, Daniela Amodei, Jared Kaplan, Jack Clark, Ben Mann"
+What is the name of Anthropic's language model?,Claude
+Which companies invested billions in Anthropic?,Amazon and Google
+Where is Anthropic headquartered?,"San Francisco, California"
+What is Anthropic's public-benefit structure called?,Delaware public-benefit corporation
+When was DeepMind founded?,"September 23, 2010"
+Who founded DeepMind?,"Demis Hassabis, Shane Legg, Mustafa Suleyman"
+Which company acquired DeepMind?,Google
+What are some of DeepMind's notable products?,"AlphaGo, AlphaStar, AlphaFold, AlphaZero"
+Where is DeepMind headquartered?,"London, England"
+When was Mistral AI founded?,April 2023
+Who founded Mistral AI?,"Arthur Mensch, Guillaume Lample, Timothée Lacroix"
+What is Mistral AI known for?,Open-weight large language models
+Which major partnership did Mistral AI announce in 2024?,Partnership with Microsoft
+Where is Mistral AI based?,"Paris, France"
+When was Hugging Face founded?,2016
+Who are the founders of Hugging Face?,"Clément Delangue, Julien Chaumond, Thomas Wolf"
+Where is Hugging Face headquartered?,New York City
+What is Hugging Face most known for?,Transformers library for NLP
+What is BLOOM?,A multilingual large language model with 176 billion parameters
+What did Hugging Face acquire in 2022?,Gradio
+Who founded Nvidia?,"Jensen Huang, Chris Malachowsky, Curtis Priem"
+Where is Nvidia headquartered?,"Santa Clara, California"
+What is CUDA?,A platform and API for parallel computing using GPUs
+Which Nvidia product is aimed at the consumer market?,GeForce
+What is Nvidia's fiscal year 2025 revenue?,$130.57 billion
+Where is DeepSeek based?,"Hangzhou, Zhejiang, China"
+Who founded DeepSeek?,Liang Wenfeng
+What model did DeepSeek launch in January 2025?,DeepSeek-R1
+What is unique about DeepSeek’s model training?,Low cost and efficiency using MoE layers
+What licensing does DeepSeek-R1 use?,MIT License
